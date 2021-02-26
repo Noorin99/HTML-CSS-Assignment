@@ -1,0 +1,52 @@
+#main{
+	box-sizing:content-box;
+	height: 620px;
+	width: 620px;
+	border: 3px solid black;
+	padding-top: 30px;
+	display: flex;
+	flex-flow: wrap;
+	justify-content: space-around; 
+	 
+}
+
+h3{
+	margin-top: 0px;
+	margin-left: 4px;
+	font-family: serif;
+	font-size: 17px;
+}
+
+header{
+	border: 3px solid black;
+	border-bottom-width: 0.5px;
+	width: 620px;
+	height: 20px;
+}
+
+
+#pink_1,#pink_2,#pink_3{
+	border: 3px solid black;
+	background: #ea9999;
+	height: 100px;
+	width: 180px;
+	margin-bottom: 19px;
+}
+
+#blue_1,#blue_2,#blue_3{
+	background: #9fc5f8;
+	border: 3px solid black;
+	height: 100px;
+	width: 350px;
+	margin-bottom: 19px;
+
+	
+}
+
+footer{
+	background: #ffe599;
+	border: 3px solid black;
+	height: 80px;
+	width: 575px;
+}
+
